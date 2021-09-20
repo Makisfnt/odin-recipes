@@ -1,1 +1,1 @@
-This project is going to be a small recipe book as a small scare operation to familiarize myself with Git
+This project is an example recipe book as a small scale operation to familiarize myself with Git.
