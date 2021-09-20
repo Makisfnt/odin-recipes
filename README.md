@@ -1,0 +1,1 @@
+This project is going to be a small recipe book as a small scare operation to familiarize myself with Git
